@@ -1,10 +1,10 @@
-# 🌐 Zeta Website: Real-Time Collaboration Platform
+# 🌐 Zeta: Real-Time Collaboration Platform
 
 **A cloud-based IoT infrastructure enabling teams to collaborate in real-time, communicate efficiently, and share content effortlessly via a user-friendly platform.**
 
 ## 📜 Project Overview
 
-This project focuses on creating an interactive web platform for team collaboration. It allows users to communicate effortlessly through real-time chat, share ideas, and collaborate on content in a centralized space. Built with cloud infrastructure, the platform ensures smooth interaction across devices, reducing the need for in-person meetings and streamlining communication.
+This project focuses on creating an interactive web platform for team collaboration. It allows users to communicate effortlessly through real-time chat, share ideas, and collaborate on content in a centralized space. Built with cloud infrastructure, the platform ensures smooth interaction across devices, reducing the need for in-person meetings and streamlining communication. Built with React, Firebase, and Redux, it offers smooth communication and file sharing capabilities for users working in teams.
 
 ## 🚀 Features
 
@@ -16,8 +16,7 @@ This project focuses on creating an interactive web platform for team collaborat
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Firebase for real-time database and authentication
-- **Styling**: Custom CSS with responsive design features
-- **Framework**: React.js
-- **Database**: Firestore for real-time data storage
+- **React.js**: For building the user interface.
+- **Redux/Redux-Toolkit**: For managing application state.
+- **Firebase**: For authentication and real-time database.
+- **HTML/CSS/JavaScript**: For structuring and styling the platform.
