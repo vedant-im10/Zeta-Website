@@ -1,0 +1,16 @@
+.app{
+   background-color: #f3f2ef;
+   display: flex;
+   flex-direction: column;
+   align-items: center; 
+}
+.app__body{
+    display: flex;
+    width: 97.4%;
+    margin-top: 10px;
+    margin-left: 55px;
+    margin-right: 20px;
+}
+
+
+  
