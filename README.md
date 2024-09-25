@@ -6,6 +6,11 @@
 
 This project focuses on creating an interactive web platform for team collaboration. It allows users to communicate effortlessly through real-time chat, share ideas, and collaborate on content in a centralized space. Built with cloud infrastructure, the platform ensures smooth interaction across devices, reducing the need for in-person meetings and streamlining communication. Built with React, Firebase, and Redux, it offers smooth communication and file sharing capabilities for users working in teams.
 
+## 🌐 Hosted URL
+
+Our application is hosted and can be accessed here:  
+**[Zeta Platform](http://zeta-46b84.web.app/)**
+
 ## 🚀 Features
 
 - **Real-Time Communication**: Facilitates instant messaging between users, allowing for smooth and quick exchanges.
