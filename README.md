@@ -4,7 +4,7 @@
 
 ## 📜 Project Overview
 
-This platform allows teams to exchange ideas, collaborate on content, and engage in real-time communication. Built for seamless teamwork, it ensures users can interact, share files, and stay connected without relying on physical meetings.
+This project focuses on creating an interactive web platform for team collaboration. It allows users to communicate effortlessly through real-time chat, share ideas, and collaborate on content in a centralized space. Built with cloud infrastructure, the platform ensures smooth interaction across devices, reducing the need for in-person meetings and streamlining communication.
 
 ## 🚀 Features
 
